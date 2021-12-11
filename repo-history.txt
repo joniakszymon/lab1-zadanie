@@ -1,0 +1,17 @@
+* commit 2c4a818d4461d49e36cc32ee79819187beda6c98 (HEAD -> master, remove-color)
+| Author: joniakszymon <joniakszymon@gmail.com>
+| Date:   Sat Dec 11 20:44:17 2021 +0100
+| 
+|     remove black color
+| 
+* commit bf07ad4ce3efd547e53e73830c03cc63d9ab5d11 (new-color, initial-file)
+| Author: joniakszymon <joniakszymon@gmail.com>
+| Date:   Sat Dec 11 20:38:21 2021 +0100
+| 
+|     adding example.json
+| 
+* commit ccb977a6bedd1e6d4b9a7bffb7e5d12f4af61aa7
+  Author: joniakszymon <joniakszymon@gmail.com>
+  Date:   Sat Dec 11 20:36:58 2021 +0100
+  
+      initial commit
